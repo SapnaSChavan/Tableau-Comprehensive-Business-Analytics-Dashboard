@@ -5,7 +5,7 @@
 ---
 
 ## 🎥 Demo Video
-
+<video src="https://github.com/SapnaSChavan/Tableau-Comprehensive-Business-Analytics-Dashboard/raw/main/demo.mp4" controls width="100%"></video>
 
 ---
 
@@ -87,9 +87,8 @@ The key goals of this dashboard are:
 ## 🙋‍♀️ Author
 
 **Sapna Siddeshwar Chavan**  
-📧 your-email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-🌐 [Tableau Public](https://your-portfolio-site.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/sapna-chavan12/)
+🌐 [Tableau Public](https://github.com/SapnaSChavan)
 
 ---
 

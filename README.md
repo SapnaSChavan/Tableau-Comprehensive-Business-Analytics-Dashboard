@@ -4,9 +4,12 @@
 
 ---
 
-## 🎥 Demo Video
+## 🎥 Dashboard Screenshots
+![image](https://github.com/user-attachments/assets/bce4086b-9ba6-42c5-9438-fe958dcfbeb9)
 
-<video src="https://github.com/SapnaSChavan/Tableau-Comprehensive-Business-Analytics-Dashboard/raw/main/demo.mp4" controls width="100%"></video>
+![image](https://github.com/user-attachments/assets/c4eccace-59ff-4401-b4a4-3fb24133d921)
+
+![image](https://github.com/user-attachments/assets/c94856e0-63f0-4b5f-817d-92ec134cc1fd)
 
 ---
 

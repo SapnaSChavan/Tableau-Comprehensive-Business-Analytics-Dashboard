@@ -5,6 +5,7 @@
 ---
 
 ## 🎥 Demo Video
+
 <video src="https://github.com/SapnaSChavan/Tableau-Comprehensive-Business-Analytics-Dashboard/raw/main/demo.mp4" controls width="100%"></video>
 
 ---
@@ -16,8 +17,6 @@ This project simulates a real-world business scenario where the **Sales Departme
 - Understand key performance metrics
 - Track profits and revenue by product category, sub-category, and region
 - Enable data-driven decisions by visualizing trends and patterns
-
-> The dashboard is created as part of a structured **Tableau Case Study Project** from the *Tableau Ultimate Course*.
 
 ---
 
